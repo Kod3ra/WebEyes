@@ -24,7 +24,7 @@ This is the free version of WebEyes you can have the paid version on discord, Ko
 3. pip install -r requirements
 4. python WebEyes.pyw
 
-##Credits:
+## Credits:
 
 This is made by Kod3ra#0475 in 2023.
 
